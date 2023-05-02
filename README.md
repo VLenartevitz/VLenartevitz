@@ -4,7 +4,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLenartevitz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <hr>
-<div align="left">  
+<div align="center">  
 
    ## :office: Experiências
           
