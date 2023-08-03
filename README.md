@@ -27,14 +27,12 @@
   <code><img align="center" alt="Sam-GIT" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   <code><img align="center" alt="Sam-GIT" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
   <code><img align="center" alt="Sam-GIT" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
-    <code><img align="center" alt="Sam-GIT" height="60" width="50" src="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6772617068716c2f6772617068716c2d706c61696e2d776f72646d61726b2e737667"></code>
-  <code><img align="center" alt="Sam-GIT" height="60" width="50" src="https://camo.githubusercontent.com/ec404f922ea55836f152d93d7ad53a640ca64490948306f135461fcaa919027c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7472656c6c6f2f7472656c6c6f2d706c61696e2d776f72646d61726b2e737667"></code>
+  
+  <a href="https://www.credly.com/badges/2976768f-0f92-49d0-97ae-5b468b142bb2">
+  <img align="center" height="160" width="150" src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png">
+    <img align="center" height="160" width="150" src="https://images.credly.com/size/340x340/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png">
+  </a>
 
-  <code>
-    <a href="https://www.credly.com/badges/2976768f-0f92-49d0-97ae-5b468b142bb2">
-  <img align="center" alt="Sam-GIT" height="60" width="50" src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png">
-    </a>
-  </code>
 
   
 </div>
