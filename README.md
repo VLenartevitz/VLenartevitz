@@ -8,7 +8,8 @@
 
    ## :office: Experiências
           
-- [x] Front-end Developer Intern - Compass.uol (11/2022 - 04/2023)         
+- [x] Front-end Developer Intern - Compass.uol (11/2022 - 04/2023)
+- [x] Full-stack Developer Intern - FireWork Web(09/2023)        
 
 </div>
 <div align="center"style="display: inline_block">
@@ -19,9 +20,11 @@
   <code><img align="center" alt="Sam-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
   <code><img align="center" alt="Sam-BOOTSTRAP" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
   <code><img align="center" alt="Sam-BOOTSTRAP" height="60" width="50" src="https://camo.githubusercontent.com/bdedcbc949feefecc3ff98f7e655ee8151b522e2f32196c648620f5366d909d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d706c61696e2e737667"></code>
-  <code><img align="center" alt="Sam-JS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code> 
-  <code><img align="center" alt="Sam-GIT" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
   <code><img align="center" alt="Sam-PHP" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
+  <code><img align="center" alt="Sam-BOOTSTRAP" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /></code>
+  <code><img align="center" alt="Sam-BOOTSTRAP" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/></code>
+  <code><img align="center" alt="Sam-GIT" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+  <code><img align="center" alt="Sam-JS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code> 
   <code><img align="center" alt="Sam-PHP" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
   <code><img align="center" alt="Sam-MYSQL" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
   <code><img align="center" alt="Sam-GIT" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
