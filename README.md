@@ -34,6 +34,7 @@
   <a href="https://www.credly.com/badges/2976768f-0f92-49d0-97ae-5b468b142bb2">
   <img align="center" height="160" width="150" src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png">
     <img align="center" height="160" width="150" src="https://images.credly.com/size/340x340/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png">
+  <img align="center" height="160" width="150" src="https://www.cloudskillsboost.google/public_profiles/84b56b13-4140-44c8-b7b7-b3edbbe28516/badges/5283247">
   </a>
 
 
