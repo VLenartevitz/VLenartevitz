@@ -2,7 +2,7 @@
 
 <!-- <h1 align="center">Vinicius Lenartevitz | FullStack Developer  </h1> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF0404&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Vinicius+Lenartevitz+;FullStack+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF0404&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Vinicius+Lenartevitz+;FullStack+Web+Developer+)](https://git.io/typing-svg)
 
 <div style="display:flex;  width:200px; justify-content:space-between;">
 
