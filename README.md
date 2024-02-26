@@ -1,6 +1,4 @@
-<!--<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=BF0404&%20height=120&section=header"/>
-
-<h1 align="center">Vinicius Lenartevitz | FullStack Developer  </h1> -->
+<h1 align="center">Vinicius Lenartevitz | FullStack Developer  </h1> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF0404&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Vinicius+Lenartevitz+;FullStack+Web+Developer+)](https://git.io/typing-svg)
 
@@ -44,17 +42,18 @@
   <code><img align="center" alt="Sam-MYSQL" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"></code>
   <code><img align="center" alt="Sam-MYSQL" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
 
-
-  
   <a href="https://www.credly.com/badges/2976768f-0f92-49d0-97ae-5b468b142bb2">
   <img align="center" height="160" width="150" src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png">
     <img align="center" height="160" width="150" src="https://images.credly.com/size/340x340/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png">
   </a>
-
-
-  
 </div>
-  <hr>
+
+  <div align="center">
+    
+   ## 📱 Contato
+    
+  </div>
+  
 <div align="center"> 
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vlenartevitz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
