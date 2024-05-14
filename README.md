@@ -44,7 +44,7 @@
   </a>
 
 
-<a href="https://mylearn.oracle.com/ou/learning-path/java-explorer/79726/">
+<a href="https://learn.oracle.com/ols/learning-path/java-explorer/88323/79726">
   <img align="center" height="160" width="150" src="https://mylearn.oracle.com/ou/learning-path/java-explorer/79726/">
   </a>
 
