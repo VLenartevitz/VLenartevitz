@@ -25,6 +25,7 @@
   <code><img align="center" alt="Sam-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img align="center" alt="Sam-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
   <code><img align="center" alt="Sam-BOOTSTRAP" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
+  <code><img align="center" alt="Sam-MYSQL" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg"></code>
   <code><img align="center" alt="Sam-BOOTSTRAP" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/></code>
   <code><img align="center" alt="Sam-GIT" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
   <code><img align="center" alt="Sam-JS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code> 
@@ -35,8 +36,10 @@
   <code><img align="center" alt="Sam-GIT" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   <code><img align="center" alt="Sam-GIT" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
   <code><img align="center" alt="Sam-MYSQL" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></code>
+    <code><img align="center" alt="Sam-MYSQL" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
   <code><img align="center" alt="Sam-MYSQL" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
   <code><img align="center" alt="Sam-MYSQL" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
+
 
   <a href="https://www.credly.com/badges/2976768f-0f92-49d0-97ae-5b468b142bb2">
   <img align="center" height="160" width="150" src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png">
