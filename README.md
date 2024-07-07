@@ -1,6 +1,6 @@
 <h1 align="center">Vinicius Lenartevitz | FullStack Developer  </h1> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF0404&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Vinicius+Lenartevitz+;FullStack+Web+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF0404&size=35&center=true&vCenter=true&width=1000&lines=Mobile%20-%20+Web%20-%20+BackEnd+)](https://git.io/typing-svg)
 
 <div style="display:flex;  width:200px; justify-content:space-between;">
 
@@ -43,7 +43,7 @@
 
 
   <a href="https://www.credly.com/badges/2976768f-0f92-49d0-97ae-5b468b142bb2">
-  <img align="center" height="160" width="150" src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png">
+  <img align="center" height="160" width="150" src="https://images.credly.com/size/680x680/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png">
   </a>
 <a href="https://www.credly.com/badges/f25066e6-b874-408b-8dd1-ef65ca8246cb">
   <img align="center" height="160" width="150" src="https://images.credly.com/size/680x680/images/9dc6345e-db80-44de-bb44-0c78775e53fa/image.png">
