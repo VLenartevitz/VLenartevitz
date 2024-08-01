@@ -14,8 +14,9 @@
 
    ## :office: Experiências
           
-- [x] Front-end Developer Intern - Compass.uol (11/2022 - 04/2023)
-- [x] Full-stack Developer Intern - FireWork Web (09/2023)        
+- [x] Ccholarship participant - Compass.uol (11/2022 - 04/2023)
+- [x] Trainee Developer - FireWork Web (09/2023 - 08/2024)
+- [x] Fullstack Junior Developer  - FireWork Web (08/2024)        
 
 </div>
 <div align="center"style="display: inline_block">
