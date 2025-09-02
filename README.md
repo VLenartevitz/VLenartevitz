@@ -44,12 +44,12 @@
   <code><img align="center" alt="Sam-MYSQL" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
 
 
-  <a href="https://www.credly.com/badges/2976768f-0f92-49d0-97ae-5b468b142bb2">
+ <!-- <a href="https://www.credly.com/badges/2976768f-0f92-49d0-97ae-5b468b142bb2">
   <img align="center" height="160" width="150" src="https://images.credly.com/size/680x680/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png">
   </a>
 <a href="https://www.credly.com/badges/f25066e6-b874-408b-8dd1-ef65ca8246cb">
   <img align="center" height="160" width="150" src="https://images.credly.com/size/680x680/images/9dc6345e-db80-44de-bb44-0c78775e53fa/image.png">
-  </a>
+  </a> -->
 
   
 
