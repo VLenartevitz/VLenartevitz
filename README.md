@@ -44,9 +44,9 @@
   <a href="https://www.credly.com/badges/2976768f-0f92-49d0-97ae-5b468b142bb2" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/8f006312-3154-45bf-a845-4a043641e83c/blob" alt="AWS Academy Graduate - AWS Academy Cloud Foundations" width="140" height="140"/>
   </a>
-  <a href="https://www.credly.com/badges/f25066e6-b874-408b-8dd1-ef65ca8246cb" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/5749832b-21b7-47f9-9ad4-b2fef13d0454/blob" alt="AWS Partner: Cloud Economics Essentials - Training Badge" width="140" height="140"/>
-  </a>
+  <a href="https://www.skills.google/public_profiles/84b56b13-4140-44c8-b7b7-b3edbbe28516/badges/5283247" target="_blank">
+  <img src="https://cdn.qwiklabs.com/yM6GdQHQRb2U5W%2Bs1kXP%2BArp7Gk5uWKWf7qscY5Ip8I%3D" alt="Google Cloud Skill Badge" width="140" height="140"/>
+</a>
 </p>
 
 ---
