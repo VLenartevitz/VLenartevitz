@@ -56,8 +56,20 @@
 
 ---
 
+
 ## GitHub Stats
-<div align="center"> <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&theme=onedark&showIcons=false&preferLogin=true"> <img alt="VLenartevitz GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/VLenartevitz?cardType=level&theme=onedark&showIcons=false&preferLogin=true" width="420" /> </a> </div> <br clear="right" />
+
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=VLenartevitz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VLenartevitz&layout=compact&langs_count=7&theme=tokyonight"
+  />
+</div>
 
 ---
 
