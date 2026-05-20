@@ -56,10 +56,8 @@
 
 ---
 
-## 📊 Estatísticas
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VLenartevitz&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VLenartevitz&layout=compact&theme=codeSTACKr&langs_count=7) |
-|---|---|
+## GitHub Stats
+<div align="center"> <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&theme=onedark&showIcons=false&preferLogin=true"> <img alt="VLenartevitz GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/VLenartevitz?cardType=level&theme=onedark&showIcons=false&preferLogin=true" width="420" /> </a> </div> <br clear="right" />
 
 ---
 
